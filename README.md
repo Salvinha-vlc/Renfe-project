@@ -3,14 +3,13 @@
 # A closer look into the Spanish railway passenger transportation pricing
 *Salvador Rocher Espinosa*
 
-*Data Analytics, June 2019, Barcelona*
+*Data Analytics, August 2019, Barcelona*
 
 ## Content
 - [Project Description](#project-description)
 - [Hypotheses / Questions](#hypotheses-/-questions)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
-- [Organization](#organization)
 - [Links](#links)
 
 <a name="project-description"></a>
@@ -58,16 +57,11 @@ This is the workflow I envisaged for this project:
 6) Conclusions
 7) Presentation
 
-<a name="organization"></a>
-
-## Organization
-I used Trello to organize myself and keep track of the task checklist. Then I wrote all the code and did the paper using Jupyter notebook. And lastly, Google slides to present the work for the audience.
 
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/Salvinha-vlc/Project-Week-5-Your-Own-Project)  
 [Slides](https://docs.google.com/presentation/d/1bdVcCI7lgt3oaff60R8e6gCZvqzHr3mwZEnWK3v9cLc/edit#slide=id.g35f391192_00)  
-[Trello](https://trello.com/en)  
+[Medium](https://medium.com/@salvarocher/a-closer-look-into-the-spanish-railway-passenger-transportation-pricing-581c19fe67dc)
