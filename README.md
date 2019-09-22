@@ -57,6 +57,15 @@ This is the workflow I envisaged for this project:
 6) Conclusions
 7) Presentation
 
+And this is the correspondence with the ipynb files that can be found in "your-project" folder.
+
+1. Getting to know data 1 --> 3)
+2. Getting to know data 2 --> 3)
+3. Data wrangling 1 --> 4)
+4. Data wrangling 2 --> 4)
+5. Paper. Analysis + figures --> 5), 6)
+
+Note. 1) and 2) do not have correspondence with ipynb files, they have been explained here in this README file. 7) Presentation can be found in the repo along this README file.
 
 <a name="links"></a>
 
