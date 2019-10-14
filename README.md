@@ -57,7 +57,7 @@ This is the workflow I envisaged for this project:
 6) Conclusions
 7) Presentation
 
-And this is the correspondence with the ipynb files that can be found in "your-project" folder.
+And this is the correspondence with the ipynb files that can be found in "The-code" folder.
 
 1. Getting to know data 1 --> 3)
 2. Getting to know data 2 --> 3)
